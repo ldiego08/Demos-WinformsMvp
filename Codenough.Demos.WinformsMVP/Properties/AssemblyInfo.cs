@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Codenough.Demos.WinformsMvp.Core")]
+[assembly: AssemblyTitle("Codenough.Demos.WinformsMVP")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Codenough.Demos.WinformsMvp.Core")]
+[assembly: AssemblyProduct("Codenough.Demos.WinformsMVP")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1862f041-f70d-4b6d-bd53-09edf63406b8")]
+[assembly: Guid("e5815b0f-4508-4a75-8784-22d7ca5147e8")]
 
 // Version information for an assembly consists of the following four values:
 //
